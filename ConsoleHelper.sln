@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHelper.Lib", "ConsoleHelper.Lib\ConsoleHelper.Lib.csproj", "{C0B2073F-800D-402E-A256-B6FE4EA10437}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHelper.Test", "ConsoleHelper.Test\ConsoleHelper.Test.csproj", "{8E1E89F7-FDFA-4B36-BB7E-99119DE48EA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C0B2073F-800D-402E-A256-B6FE4EA10437}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0B2073F-800D-402E-A256-B6FE4EA10437}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0B2073F-800D-402E-A256-B6FE4EA10437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1E89F7-FDFA-4B36-BB7E-99119DE48EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1E89F7-FDFA-4B36-BB7E-99119DE48EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1E89F7-FDFA-4B36-BB7E-99119DE48EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1E89F7-FDFA-4B36-BB7E-99119DE48EA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
